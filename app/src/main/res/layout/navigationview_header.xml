@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="150sp"
+        android:background="@drawable/glass_background_nav_view">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+        <com.alexzh.circleimageview.CircleImageView
+            android:id="@+id/navigationheader_circleimage"
+            android:layout_width="70sp"
+            android:layout_height="70sp"
+            android:layout_centerVertical="true"
+            android:layout_marginStart="20sp"
+            android:clickable="false"
+            xmlns:app="http://schemas.android.com/apk/res-auto"
+            android:src="@drawable/lopo_icon_two" />
+        <TextView
+            android:id="@+id/navigationheader_txtname"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Lopflix"
+            android:textSize="15sp"
+            android:textStyle="bold"
+            android:textColor="#e0e0e0"
+            android:layout_marginStart="30dp"
+            android:layout_marginTop="5sp"
+            android:layout_below="@+id/navigationheader_circleimage"/>
+        </RelativeLayout>
+
+    </FrameLayout>
+
+</RelativeLayout>

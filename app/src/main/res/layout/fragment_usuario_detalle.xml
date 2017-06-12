@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:fab="http://schemas.android.com/apk/res-auto">
+
+    <android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:orientation="vertical" android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/backgroundColor">
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:scaleType="centerCrop"
+        android:id="@+id/userdetalle_imageView_imagenUsuario"
+        android:layout_width="match_parent"
+        android:layout_height="250dp"
+        />
+
+    <TextView
+        android:id="@+id/userdetalle_nombreyEdad"
+        android:layout_marginTop="15dp"
+        android:textColor="@color/white"
+        android:textSize="20dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Nombre, edad"/>
+    <TextView
+        android:id="@+id/userdetalle_descripcion"
+        android:layout_marginTop="10dp"
+        android:textColor="@color/white"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="aca va la descripcion del usuarion onda me gustan las pelis de accion"/>
+
+    <TextView
+        android:id="@+id/userdetalle_distancia"
+        android:layout_marginTop="15dp"
+        android:textColor="@color/white"
+        android:textSize="14sp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="ultimo Login a xxx metros"/>
+
+    <android.support.v7.widget.RecyclerView
+        android:layout_marginTop="10dp"
+        android:id="@+id/fragment_usuario_favoritosAmigos"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+    </android.support.v7.widget.RecyclerView>
+
+
+
+
+</LinearLayout>
+        <com.github.clans.fab.FloatingActionButton
+            android:onClick="chooseImage"
+            android:id="@+id/userdetalle_floatingLike"
+            layout_anchor="@+id/userdetalle_imageView_imagenUsuario"
+            layout_anchorGravity="right|bottom"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="right"
+            android:src="@drawable/ic_whatshot_black_24dp"
+            fab:fab_colorNormal="#FFCDD2"
+
+            />
+    </android.support.design.widget.CoordinatorLayout>
+</ScrollView>

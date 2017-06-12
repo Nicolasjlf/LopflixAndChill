@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single"
+        android:id="@+id/menu_generos">
+
+        <item
+            android:id="@+id/navigation_menu_comedia"
+            android:title="@string/genero_comedia"/>
+
+
+        <item
+            android:id="@+id/navigation_menu_accion"
+            android:title="@string/genero_accion"/>
+
+        <item
+        android:id="@+id/navigation_menu_terror"
+        android:title="@string/genero_terror"/>
+
+        <item
+            android:id="@+id/navigation_menu_infantiles"
+            android:title="@string/genero_infantiles"/>
+        <item
+            android:id="@+id/navigation_menu_family"
+            android:title="@string/genero_family"/>
+        <item
+            android:id="@+id/navigation_menu_thriller"
+            android:title="@string/genero_thriller"/>
+        <item
+            android:id="@+id/navigation_menu_documentary"
+            android:title="@string/genero_docu"/>
+        <item
+            android:id="@+id/navigation_menu_scifi"
+            android:title="@string/genero_scifi"/>
+
+    </group>
+
+    <group android:checkableBehavior="single"
+        android:id="@+id/menu_otraCosa">
+
+        <item
+            android:id="@+id/navigation_menu_otracosa"
+            android:title="Settings"/>
+
+    </group>
+    <group android:checkableBehavior="single"
+        android:id="@+id/menu_logOut">
+
+        <item
+            android:id="@+id/navigation_menu_logOut"
+            android:title="Log Out"/>
+
+    </group>
+
+</menu>

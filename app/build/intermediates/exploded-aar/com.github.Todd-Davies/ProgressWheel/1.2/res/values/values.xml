@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ProgressWheel"><attr format="string" name="pwText"/><attr format="color" name="pwTextColor"/><attr format="dimension" name="pwTextSize"/><attr format="color" name="pwBarColor"/><attr format="color" name="pwRimColor"/><attr format="dimension" name="pwRimWidth"/><attr format="dimension" name="pwSpinSpeed"/><attr format="integer" name="pwDelayMillis"/><attr format="color" name="pwCircleColor"/><attr format="dimension" name="pwRadius"/><attr format="dimension" name="pwBarWidth"/><attr format="dimension" name="pwBarLength"/><attr format="color" name="pwContourColor"/><attr format="dimension" name="pwContourSize"/></declare-styleable>
+    <!-- From: file:/home/jitpack/build/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="app_name">ProgressBar</string>
+    <string name="hello">Hello World, main!</string>
+</resources>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView
+    android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/fragment_listasDePelis">
+
+    <TextView
+        android:id="@+id/listasDePelis_textoTrending"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/trending_movies"
+        android:textSize="15sp"
+        android:textStyle="bold"
+        android:textColor="@color/white"
+        android:layout_marginStart="10sp"/>
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/listasDePelis_recyclerTrending"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="15dp"
+        android:divider="#00000000"
+        android:dividerHeight="10.0dp"
+        android:layout_below="@id/listasDePelis_textoTrending">
+
+    </android.support.v7.widget.RecyclerView>
+
+
+    <TextView
+    android:id="@+id/listasDePelis_textoTopRated"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="@string/top_movies_2016"
+    android:textSize="15sp"
+    android:textStyle="bold"
+    android:textColor="@color/white"
+    android:layout_marginStart="10sp"
+    android:layout_below="@id/listasDePelis_recyclerTrending"/>
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/listasDePelis_recyclerTopRated"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="15dp"
+        android:divider="#00000000"
+        android:dividerHeight="10.0dp"
+        android:layout_below="@id/listasDePelis_textoTopRated">
+
+    </android.support.v7.widget.RecyclerView>
+
+
+    <TextView
+        android:id="@+id/listasDePelis_textoHighestGrossing"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/highest_grossing_movies_2016"
+        android:textSize="15sp"
+        android:textStyle="bold"
+        android:textColor="@color/white"
+        android:layout_marginStart="10sp"
+        android:layout_below="@id/listasDePelis_recyclerTopRated"/>
+
+    <android.support.v7.widget.RecyclerView
+
+        android:id="@+id/listasDePelis_recyclerHighestGrossing"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="15dp"
+        android:divider="#00000000"
+        android:dividerHeight="10.0dp"
+        android:layout_below="@id/listasDePelis_textoHighestGrossing">
+
+    </android.support.v7.widget.RecyclerView>
+
+
+</RelativeLayout>
+</ScrollView>

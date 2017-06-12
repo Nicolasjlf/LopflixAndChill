@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:fab="http://schemas.android.com/apk/res-auto">
+    <android.support.design.widget.CoordinatorLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+                <ImageView
+                    android:scaleType="centerCrop"
+                    android:id="@+id/user_imageView_imagenUsuario"
+                    android:layout_width="match_parent"
+                    android:layout_height="450dp"
+                    />
+                <ImageView
+                    android:visibility="gone"
+
+                    android:scaleType="centerCrop"
+                    android:layout_width="match_parent"
+                    android:layout_height="450dp"
+                    android:id="@+id/imageView"/>
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="30dp">
+
+
+
+
+                <TextView
+
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Nombre :"
+                    android:textSize="14sp"/>
+                <EditText
+                    android:id="@+id/user_editText_nombre"
+                    android:textSize="20sp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" />
+
+
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Mail :"
+                    android:textSize="14sp"/>
+                <EditText
+                    android:id="@+id/user_editText_mail"
+                    android:textSize="20sp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" />
+
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Edad :"
+                    android:textSize="14sp"/>
+                <EditText
+                    android:inputType="number"
+                    android:id="@+id/user_editText_edad"
+                    android:textSize="20sp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" />
+
+
+                <TextView
+                    android:textSize="14dp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Sobre Vos:"/>
+                <EditText
+                    android:layout_gravity="top"
+                    android:id="@+id/user_editText_desc"
+                    android:textSize="20sp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="50dp"/>
+
+                <Button
+                    android:id="@+id/user_saveChanges"
+                    android:background="@color/colorAccent"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Guardar Cambios"
+                    android:padding="5dp"
+                    android:layout_marginBottom="100dp"/>
+
+
+            </LinearLayout>
+        </LinearLayout>
+
+        <com.github.clans.fab.FloatingActionButton
+            android:onClick="chooseImage"
+            android:layout_marginBottom="200dp"
+            android:id="@+id/buttonFav"
+            layout_anchor="@+id/user_editText_nombre"
+            layout_anchorGravity="right|bottom"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="right"
+            android:src="@drawable/ic_add_a_photo_black_24dp"
+            fab:fab_colorNormal="#FFF8E1"
+
+            />
+
+    </android.support.design.widget.CoordinatorLayout>
+</ScrollView>

@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "215617581492",
+    "firebase_url": "https://lopflix-940b2.firebaseio.com",
+    "project_id": "lopflix-940b2",
+    "storage_bucket": "lopflix-940b2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:215617581492:android:62be21c1cbb1793c",
+        "android_client_info": {
+          "package_name": "com.ychill.nicolaslopezf.entregablefinal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "215617581492-mhk1mifljs1vni1dh1bsa570pog9rk72.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ychill.nicolaslopezf.entregablefinal",
+            "certificate_hash": "1C5924A62EA74773220E73AA37370A024822DEC9"
+          }
+        },
+        {
+          "client_id": "215617581492-n4l50t3d3aer7oih3klj23adoc9fp5vm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ychill.nicolaslopezf.entregablefinal",
+            "certificate_hash": "212958ADB1CDA089FA0468B8ACAF9C469742B3E1"
+          }
+        },
+        {
+          "client_id": "215617581492-6pmcpii391qotvofn6tn3un02qcnfafo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBePYdcTIoFIIF356nNRRrduYjHhU5NtE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "215617581492-6pmcpii391qotvofn6tn3un02qcnfafo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

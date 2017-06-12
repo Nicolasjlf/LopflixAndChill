@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\Nicolas Lopez F\\Desktop\\Android\\loflixOficial\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_favorite.png",
+        "source": "C:\\Users\\Nicolas Lopez F\\Desktop\\Android\\loflixOficial\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_favorite.png"
+    },
+    {
+        "merged": "C:\\Users\\Nicolas Lopez F\\Desktop\\Android\\loflixOficial\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_favorite_full.png",
+        "source": "C:\\Users\\Nicolas Lopez F\\Desktop\\Android\\loflixOficial\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_favorite_full.png"
+    },
+    {
+        "merged": "C:\\Users\\Nicolas Lopez F\\Desktop\\Android\\loflixOficial\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher.png",
+        "source": "C:\\Users\\Nicolas Lopez F\\Desktop\\Android\\loflixOficial\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    }
+]

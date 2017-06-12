@@ -1,0 +1,500 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Nicolas Lopez F\Desktop\Android\loflixOficial\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\Nicolas Lopez F\Desktop\Android\loflixOficial\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.3.1_b5ece4099a4ff1435ad882a44218b072534366f0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Nicolas Lopez F\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\Nicolas Lopez F\Desktop\Android\loflixOficial\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_8466419e848143281b15bb1a5fe4c22b15ee0bf0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Nicolas Lopez F\Desktop\Android\loflixOficial\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0b060160e7daee343f5315b3da91b0ff2d7eed89">
+        <dex dex="C:\Users\Nicolas Lopez F\Desktop\Android\loflixOficial\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-location-9.4.0_b0d974be1f7d7ed5c3ba25028b7f324215e7f013.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Nicolas Lopez F\Desktop\Android\loflixOficial\app\build\intermediates\exploded-aar\com.android.support\design\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="C:\Users\Nicolas Lopez F\Desktop\Android\loflixOficial\app\build\intermediates\pre-dexed\debug\com.android.support-design-24.2.1_42393e2e0dcaba3b48ac4b11280a481a9584d8f7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Nicolas Lopez F\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="C:\Users\Nicolas Lopez F\Desktop\Android\loflixOficial\app\build\intermediates\pre-dexed\debug\bolts-tasks-1.4.0_2f86050b4737aba589b6f70c9b57bf4287c319e0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Nicolas Lopez F\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.0.2\f8d87f15b94b8d74e7ccf61d7eedb558811cdb30\converter-gson-2.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f8d87f15b94b8d74e7ccf61d7eedb558811cdb30">
+        <dex dex="C:\Users\Nicolas Lopez F\Desktop\Android\loflixOficial\app\build\intermediates\pre-dexed\debug\converter-gson-2.0.2_6854f6fb91513b4709ded8b635b12ac6174cf528.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Nicolas Lopez F\Desktop\Android\loflixOficial\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="84bf369090a8f7e293817efbd6ccf31ada1be32b">
+        <dex dex="C:\Users\Nicolas Lopez F\Desktop\Android\loflixOficial\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-database-9.4.0_c83fbd81db560239e6bb42e61eaae88a1ba9dd6d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Nicolas Lopez F\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.6.1\b9d63507329a7178e026fc334f87587ee5070ac5\gson-2.6.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9d63507329a7178e026fc334f87587ee5070ac5">
+        <dex dex="C:\Users\Nicolas Lopez F\Desktop\Android\loflixOficial\app\build\intermediates\pre-dexed\debug\gson-2.6.1_a9a6e06bfa526c0740475a82f98a684958886224.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Nicolas Lopez F\Desktop\Android\loflixOficial\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-module\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6bc41d9d6fd12d2ef23c785a259011001f4a1a5b">
+        <dex dex="C:\Users\Nicolas Lopez F\Desktop\Android\loflixOficial\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-auth-module-9.4.0_af4960f92777b86f0f9f65c6f93f88782f47abd4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Nicolas Lopez F\Desktop\Android\loflixOficial\app\build\intermediates\exploded-aar\com.twitter.sdk.android\twitter-core\2.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="2a3224154b36aa5bb941f20d1625ba1fb20aa3a7">
+        <dex dex="C:\Users\Nicolas Lopez F\Desktop\Android\loflixOficial\app\build\intermediates\pre-dexed\debug\com.twitter.sdk.android-twitter-core-2.2.0_2366bd0d37fcdb1ad38aca16e1cbdc7306c3e0e8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Nicolas Lopez F\Desktop\Android\loflixOficial\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e454c414a069241ee08444d187f2dd3a702596b5">
+        <dex dex="C:\Users\Nicolas Lopez F\Desktop\Android\loflixOficial\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-maps-9.4.0_0e179ad8cd8a8c7336580bc0775c0fbb9f19422a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Nicolas Lopez F\Desktop\Android\loflixOficial\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="C:\Users\Nicolas Lopez F\Desktop\Android\loflixOficial\app\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-25.3.1_56d8fe8daecd029cd0319fafefb3489b1b076db9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Nicolas Lopez F\Desktop\Android\loflixOficial\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4b630471536351be7c3c3100735c75b7ad2cbd84">
+        <dex dex="C:\Users\Nicolas Lopez F\Desktop\Android\loflixOficial\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-auth-9.4.0_6d7acbed7d02b007d901c35f314f37be42fd4a38.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Nicolas Lopez F\Desktop\Android\loflixOficial\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="C:\Users\Nicolas Lopez F\Desktop\Android\loflixOficial\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-24.2.1_21b58ec553e94d6d2a7ea7dfdaca98a4a0790df9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Nicolas Lopez F\Desktop\Android\loflixOficial\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\Nicolas Lopez F\Desktop\Android\loflixOficial\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.3.1_d613d0cfda21a8757bfb4eec7d4dc5bcdb65d716.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Nicolas Lopez F\Desktop\Android\loflixOficial\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="618485fef3ebe12127f7622abbc9b5b39057b5c2">
+        <dex dex="C:\Users\Nicolas Lopez F\Desktop\Android\loflixOficial\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-9.4.0_eeacdcee876e227447b5dd51667b33645eabd57c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Nicolas Lopez F\Desktop\Android\loflixOficial\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="88848548ab56d4fbf3d2d1b0c85bf1ff9b4c1f4b">
+        <dex dex="C:\Users\Nicolas Lopez F\Desktop\Android\loflixOficial\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-9.4.0_de78b48ad1f0ada8003274b2485bbd193f376730.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Nicolas Lopez F\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="C:\Users\Nicolas Lopez F\Desktop\Android\loflixOficial\app\build\intermediates\pre-dexed\debug\okio-1.6.0_e7c06c81ee19bd08d07dcef85a6b74d21d21f450.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Nicolas Lopez F\Desktop\Android\loflixOficial\app\build\intermediates\exploded-aar\com.facebook.android\facebook-android-sdk\4.23.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4504ae3ec47953f3d0c324dc66996aecfb7fbb5c">
+        <dex dex="C:\Users\Nicolas Lopez F\Desktop\Android\loflixOficial\app\build\intermediates\pre-dexed\debug\com.facebook.android-facebook-android-sdk-4.23.0_babf48f8db6c577d35fb29cba0b16426c117351c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Nicolas Lopez F\Desktop\Android\loflixOficial\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\Nicolas Lopez F\Desktop\Android\loflixOficial\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.3.1_e215995cad1d5ddc21daaf2a8e0cadc49af5b497.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Nicolas Lopez F\Desktop\Android\loflixOficial\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="3b7173b3df4c7029699919414400041f64519e34">
+        <dex dex="C:\Users\Nicolas Lopez F\Desktop\Android\loflixOficial\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-iid-9.4.0_9d05e9466d5f8390c10a40cb2761a150e60f3a3f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Nicolas Lopez F\Desktop\Android\loflixOficial\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\Nicolas Lopez F\Desktop\Android\loflixOficial\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.3.1_27947a6754c4f026172f50005c32566dd98f48fb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Nicolas Lopez F\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="C:\Users\Nicolas Lopez F\Desktop\Android\loflixOficial\app\build\intermediates\pre-dexed\debug\picasso-2.5.2_44861ade014e5304506225cca41ee284f129a4e7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Nicolas Lopez F\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-applinks\1.4.0\8ad21bf21784dacce5f2043afb97218cc377e835\bolts-applinks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="C:\Users\Nicolas Lopez F\Desktop\Android\loflixOficial\app\build\intermediates\pre-dexed\debug\bolts-applinks-1.4.0_635dd0a8015338a3de3c395cade47826e87380c9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Nicolas Lopez F\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.2.0\f7873a2ebde246a45c2a8d6f3247108b4c88a879\okhttp-3.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
+        <dex dex="C:\Users\Nicolas Lopez F\Desktop\Android\loflixOficial\app\build\intermediates\pre-dexed\debug\okhttp-3.2.0_d82b3231afaf8c37413bf63ca61bfcebebe95bd6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Nicolas Lopez F\Desktop\Android\loflixOficial\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-common\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="34762013d39dbe6c656050589c44e8b61b9a2c5d">
+        <dex dex="C:\Users\Nicolas Lopez F\Desktop\Android\loflixOficial\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-auth-common-9.4.0_b1217196fc14c76d460c61d2af306b1c9f8aa182.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Nicolas Lopez F\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.0.2\43eeae0b9fb087bb3194ba59ab63a38a32fbf3e\retrofit-2.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="043eeae0b9fb087bb3194ba59ab63a38a32fbf3e">
+        <dex dex="C:\Users\Nicolas Lopez F\Desktop\Android\loflixOficial\app\build\intermediates\pre-dexed\debug\retrofit-2.0.2_0ee2a61f19953864d86e0079ed30c83a5890ed6f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Nicolas Lopez F\Desktop\Android\loflixOficial\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-places\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e35002351f2d415093a9b564652d4b56be6a0593">
+        <dex dex="C:\Users\Nicolas Lopez F\Desktop\Android\loflixOficial\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-places-9.4.0_284dfbfbeadddcda9a6403aeb0423ce8b0d09e99.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Nicolas Lopez F\Desktop\Android\loflixOficial\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8a36d229011e75f0caef408e1adf0d3fd4d94e02">
+        <dex dex="C:\Users\Nicolas Lopez F\Desktop\Android\loflixOficial\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-9.4.0_b48ab05c8e9902c2069ff6ccd85398894e0de2fb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Nicolas Lopez F\.gradle\caches\modules-2\files-2.1\com.twitter\twitter-text\1.13.0\78415b95ae3184c5926d593feab64bfc0b73b2dd\twitter-text-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="78415b95ae3184c5926d593feab64bfc0b73b2dd">
+        <dex dex="C:\Users\Nicolas Lopez F\Desktop\Android\loflixOficial\app\build\intermediates\pre-dexed\debug\twitter-text-1.13.0_fe6d702e5fdf89030ac21ec71f3091c258a60882.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Nicolas Lopez F\AppData\Local\Android\Sdk\build-tools\24.0.2\renderscript\lib\renderscript-v8.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="05668b8cd6c7b07f152b6a5b4c6cff620817ba0f">
+        <dex dex="C:\Users\Nicolas Lopez F\Desktop\Android\loflixOficial\app\build\intermediates\pre-dexed\debug\renderscript-v8_f3d9ab25fb66b1eb71bcdaaf703d0c8658f255ea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Nicolas Lopez F\Desktop\Android\loflixOficial\app\build\intermediates\exploded-aar\com.alexzh\circleimageview\1.2.0\jars\libs\nineoldandroid-library-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="de28e826c3cdeff64a297816a4f95c50d7aa644b">
+        <dex dex="C:\Users\Nicolas Lopez F\Desktop\Android\loflixOficial\app\build\intermediates\pre-dexed\debug\nineoldandroid-library-2.4.0_ec5dc8812d40d69726c87ab9944f55793edd253f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Nicolas Lopez F\Desktop\Android\loflixOficial\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\Nicolas Lopez F\Desktop\Android\loflixOficial\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.3.1_439992f1d7caed691cca999ce42aa6980b20d208.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Nicolas Lopez F\Desktop\Android\loflixOficial\app\build\intermediates\exploded-aar\com.twitter.sdk.android\twitter\2.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="2b7e936ca11ae0588600beb7388553bda26d7e66">
+        <dex dex="C:\Users\Nicolas Lopez F\Desktop\Android\loflixOficial\app\build\intermediates\pre-dexed\debug\com.twitter.sdk.android-twitter-2.2.0_0e1458797c86bd2a40579cd64bf22ed4748a6294.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Nicolas Lopez F\Desktop\Android\loflixOficial\app\build\intermediates\exploded-aar\com.twitter.sdk.android\tweet-ui\2.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6888a6faad7690088caf4ce55cde09763d7eefd0">
+        <dex dex="C:\Users\Nicolas Lopez F\Desktop\Android\loflixOficial\app\build\intermediates\pre-dexed\debug\com.twitter.sdk.android-tweet-ui-2.2.0_d5894ecdf9fbd55b2c7b1def32018ba4420ba072.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Nicolas Lopez F\Desktop\Android\loflixOficial\app\build\intermediates\exploded-aar\com.alexzh\circleimageview\1.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f4cde41cc3e40c2c25b0173ae54f58a516d5ad9f">
+        <dex dex="C:\Users\Nicolas Lopez F\Desktop\Android\loflixOficial\app\build\intermediates\pre-dexed\debug\com.alexzh-circleimageview-1.2.0_4d2ad32ca18d081eb33fabec72d38507f6856f20.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Nicolas Lopez F\Desktop\Android\loflixOficial\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\Nicolas Lopez F\Desktop\Android\loflixOficial\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.3.1_0cf38e4bc47695ab8f213af3b7cace6982074e66.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Nicolas Lopez F\Desktop\Android\loflixOficial\app\build\intermediates\exploded-aar\com.android.support\palette-v7\24.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b3f2f82a3805cb689e32238c95cb291a433b4323">
+        <dex dex="C:\Users\Nicolas Lopez F\Desktop\Android\loflixOficial\app\build\intermediates\pre-dexed\debug\com.android.support-palette-v7-24.1.1_19bd86e8b26e0ac855ab72cf1a365508710e9e0f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Nicolas Lopez F\Desktop\Android\loflixOficial\app\build\intermediates\exploded-aar\com.twitter.sdk.android\tweet-composer\2.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4deb6adbe724b17214ded081b0fbfb109a87077e">
+        <dex dex="C:\Users\Nicolas Lopez F\Desktop\Android\loflixOficial\app\build\intermediates\pre-dexed\debug\com.twitter.sdk.android-tweet-composer-2.2.0_8120aaa00c258f34fa0ebfe54097ca29ef8c8f27.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Nicolas Lopez F\Desktop\Android\loflixOficial\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="18b5697c65c4fe5b7381613b8b8ae9ac52e26fa7">
+        <dex dex="C:\Users\Nicolas Lopez F\Desktop\Android\loflixOficial\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-common-9.4.0_44e09f7897dc850c65cb13970e9353fb48b91404.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Nicolas Lopez F\Desktop\Android\loflixOficial\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a440fb3fec30ff925e9f601cc458fb6671834cb2">
+        <dex dex="C:\Users\Nicolas Lopez F\Desktop\Android\loflixOficial\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-impl-9.4.0_4f6b6e775d53fe3740ddcd3cc523cfb3f25c770b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Nicolas Lopez F\Desktop\Android\loflixOficial\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\Nicolas Lopez F\Desktop\Android\loflixOficial\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.3.1_f3f4903c993fff73e12a1623851db764430c479e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Nicolas Lopez F\Desktop\Android\loflixOficial\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\Nicolas Lopez F\Desktop\Android\loflixOficial\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.3.1_a91ff6aea52f9fd69bfa28a14c2d2e10791bf4cd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Nicolas Lopez F\Desktop\Android\loflixOficial\app\build\intermediates\exploded-aar\com.github.clans\fab\1.6.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="1c3b9743fe8bb166a90a7e98b9b9f1f8021d80cd">
+        <dex dex="C:\Users\Nicolas Lopez F\Desktop\Android\loflixOficial\app\build\intermediates\pre-dexed\debug\com.github.clans-fab-1.6.4_76447ad941cea2b68b34d0a851fc9b0b7576d74a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Nicolas Lopez F\Desktop\Android\loflixOficial\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="3dee4ce5844d39d843d503fb8fe04e51e5bfffac">
+        <dex dex="C:\Users\Nicolas Lopez F\Desktop\Android\loflixOficial\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-9.4.0_278bf90b73ee7ea032321fa96e31ff2cd838572f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Nicolas Lopez F\Desktop\Android\loflixOficial\app\build\intermediates\exploded-aar\com.android.support\customtabs\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="807751a24cf96566fd8675517c94d8463cf364db">
+        <dex dex="C:\Users\Nicolas Lopez F\Desktop\Android\loflixOficial\app\build\intermediates\pre-dexed\debug\com.android.support-customtabs-25.3.1_82a5f37111bdfd511dbe729a45918c55f0c12ed3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Nicolas Lopez F\Desktop\Android\loflixOficial\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="98e97da89d4df8e2f6eba63498d3d46a587372f2">
+        <dex dex="C:\Users\Nicolas Lopez F\Desktop\Android\loflixOficial\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-storage-9.4.0_5f278470a00e7a6bb27084c2c47e7d40793cb1a0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Nicolas Lopez F\Desktop\Android\loflixOficial\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Nicolas Lopez F\Desktop\Android\loflixOficial\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.3.1_126edcf44a3061199440082e6a157eb3d4a7c0f9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Nicolas Lopez F\Desktop\Android\loflixOficial\app\build\intermediates\exploded-aar\com.github.jkwiecien\EasyImage\1.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="36bd772291bbb9201113b4988472e3dd95647bf2">
+        <dex dex="C:\Users\Nicolas Lopez F\Desktop\Android\loflixOficial\app\build\intermediates\pre-dexed\debug\com.github.jkwiecien-EasyImage-1.3.1_81f6aa558488fc3bb9554f49a60366a51d9d34d7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Nicolas Lopez F\Desktop\Android\loflixOficial\app\build\intermediates\exploded-aar\com.github.Todd-Davies\ProgressWheel\1.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="835be1a97d1d461060c330223b6b148662513d3f">
+        <dex dex="C:\Users\Nicolas Lopez F\Desktop\Android\loflixOficial\app\build\intermediates\pre-dexed\debug\com.github.Todd-Davies-ProgressWheel-1.2_a32ca1c2ac6bfb43259c32f01d472004f88a98f2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Nicolas Lopez F\Desktop\Android\loflixOficial\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c8f5d56f8f8a287c95e02c542baade138a378048">
+        <dex dex="C:\Users\Nicolas Lopez F\Desktop\Android\loflixOficial\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-storage-common-9.4.0_5ae11a8b098ac0152c14238d850d73d17857b790.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Nicolas Lopez F\Desktop\Android\loflixOficial\app\build\intermediates\exploded-aar\com.github.elevenetc\draggableview\v1.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="3dff4a9f8c2e5b57a2d5b75f49c1a578f8ab9b20">
+        <dex dex="C:\Users\Nicolas Lopez F\Desktop\Android\loflixOficial\app\build\intermediates\pre-dexed\debug\com.github.elevenetc-draggableview-v1.0.1_f652847265a8d2373ce50d5fc659338b2169a0c3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Nicolas Lopez F\Desktop\Android\loflixOficial\app\libs\YouTubeAndroidPlayerApi.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="3c4f96ff493456651cc7bdb0b47e10eb25545a16">
+        <dex dex="C:\Users\Nicolas Lopez F\Desktop\Android\loflixOficial\app\build\intermediates\pre-dexed\debug\YouTubeAndroidPlayerApi_4a57283a8e128f1432f670162a99338fc3a7aba3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Nicolas Lopez F\Desktop\Android\loflixOficial\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0e4d53465cc141bec58f18a894e4c4e80633fa32">
+        <dex dex="C:\Users\Nicolas Lopez F\Desktop\Android\loflixOficial\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-database-connection-9.4.0_ace447398f3291ea4ec09cc7e579089dd20be6dd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Nicolas Lopez F\Desktop\Android\loflixOficial\app\build\intermediates\exploded-aar\io.fabric.sdk.android\fabric\1.3.14\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a319fd4d548ba4cc9511561d37109ba922bfbf6a">
+        <dex dex="C:\Users\Nicolas Lopez F\Desktop\Android\loflixOficial\app\build\intermediates\pre-dexed\debug\io.fabric.sdk.android-fabric-1.3.14_92bc585a67fe476cee20eb54f1b3d5d3a7f79152.jar" />
+    </item>
+
+</items>

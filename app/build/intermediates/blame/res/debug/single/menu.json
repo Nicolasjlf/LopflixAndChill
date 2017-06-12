@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\Nicolas Lopez F\\Desktop\\Android\\loflixOficial\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main.xml",
+        "source": "C:\\Users\\Nicolas Lopez F\\Desktop\\Android\\loflixOficial\\app\\build\\intermediates\\exploded-aar\\com.github.elevenetc\\draggableview\\v1.0.1\\res\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nicolas Lopez F\\Desktop\\Android\\loflixOficial\\app\\build\\intermediates\\res\\merged\\debug\\menu\\navigation_view_menu.xml",
+        "source": "C:\\Users\\Nicolas Lopez F\\Desktop\\Android\\loflixOficial\\app\\src\\main\\res\\menu\\navigation_view_menu.xml"
+    }
+]

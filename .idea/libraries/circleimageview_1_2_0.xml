@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="circleimageview-1.2.0">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.alexzh/circleimageview/1.2.0/res" />
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.alexzh/circleimageview/1.2.0/jars/libs/nineoldandroid-library-2.4.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.alexzh/circleimageview/1.2.0/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.alexzh/circleimageview/1.2.0/4d1f0911b036e35ebc40b9612a3097622f8b989c/circleimageview-1.2.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
